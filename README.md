@@ -160,4 +160,4 @@ java -cp "out:lib/sqlite-jdbc.jar" Main
 
 ## 👨‍💻 Author
 
-**Priyanshu Sharma** | Roll: 24BCE10360 | VIT University
+**Priyanshu Vashisth** | Roll: 24BCE10360 | VIT University
